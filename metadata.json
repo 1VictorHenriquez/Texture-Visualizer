@@ -1,0 +1,5 @@
+{
+  "name": "Texturelle AI Visualizer",
+  "description": "An interactive web tool for designers and clients to virtually apply Texturelle's wallpapers, murals, and window treatments to a photo of their own space, using advanced AI for photorealistic results.",
+  "requestFramePermissions": []
+}
